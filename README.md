@@ -49,7 +49,7 @@ This is an activity for TC3405 course.
 - Calling Add with a negative number will throw an exception "negatives not allowed" - and the negative that was passed. 
   - if there are multiple negatives, show all of them in the exception message
 
-## Notes
+## Notes test
 
 - Every time you save `stringcalculator.py` it will run the tests, if they fail then your changes in the file will be reverted
 - To see the output of the test if they don't appear in terminal, go to `Output` (it's next to terminal, you can open it directly with ctrl+shit+u) and select `Run On Save` from the selection box
